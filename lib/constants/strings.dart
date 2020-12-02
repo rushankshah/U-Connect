@@ -1,0 +1,10 @@
+const String MESSAGES_COLLECTION = 'messages';
+const String USERS_COLLECTION = 'users';
+const String TIMESTAMP_FIELD = 'timeStamp';
+const String EMAIL_FIELD = 'email';
+const String MESSAGE_TYPE_IMAGE = 'image';
+const String CALL_COLLECTION = 'call';
+const String CONTACT_ID = 'contact_id';
+const String ADDED_ON = 'added_on';
+const String CONTACT_COLLECTION = 'contacts';
+const String STATE_FIELD = 'state';

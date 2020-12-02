@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "603995581349",
+    "firebase_url": "https://u-connect-ab215.firebaseio.com",
+    "project_id": "u-connect-ab215",
+    "storage_bucket": "u-connect-ab215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603995581349:android:a23257c85937721957964c",
+        "android_client_info": {
+          "package_name": "com.example.u_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603995581349-udgc36a8asje03n85v2ro6jdecko5bfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.u_connect",
+            "certificate_hash": "a5a5086a1f7d685c72b3610caf493576e6990ded"
+          }
+        },
+        {
+          "client_id": "603995581349-ai55a1hcs3l206a2vsks95vt3kuao8tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPM0xye4GPKXwynzPdxBAdFvohpNkrN78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603995581349-ai55a1hcs3l206a2vsks95vt3kuao8tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
